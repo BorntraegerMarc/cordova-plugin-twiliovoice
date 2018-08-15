@@ -18,10 +18,10 @@ https://github.com/jefflinwood/twilio_client_phonegap
 ## Available on NPM
 
 ```
-cordova plugin add cordova-plugin-twiliovoice
+cordova plugin add komed-cordova-plugin-twiliovoice
 ```
 
-The NPM Page for this plugin: https://www.npmjs.com/package/cordova-plugin-twiliovoice
+The NPM Page for this plugin: https://www.npmjs.com/package/komed-cordova-plugin-twiliovoice
 
 ## Preferences
 
