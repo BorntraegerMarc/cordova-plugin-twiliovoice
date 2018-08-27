@@ -1,6 +1,6 @@
 {
   "name": "komed-cordova-plugin-twiliovoice",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "Use the Twilio Voice SDK for iOS with Cordova/PhoneGap. Successor to Twilio Client Plugin",
   "cordova": {
     "id": "komed-cordova-plugin-twiliovoice",
